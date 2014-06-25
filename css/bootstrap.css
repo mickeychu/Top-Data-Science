@@ -591,6 +591,10 @@ ol ol {
   margin-left: -5px;
   list-style: none;
 }
+.list-inside-list {
+    padding-left: 15%;
+    padding-bottom: 15px;
+}
 .list-inline > li {
   display: inline-block;
   padding-right: 5px;
@@ -608,7 +612,7 @@ dt {
   font-weight: bold;
 }
 dd {
-  margin-left: 0;
+    margin-left: 11%;
 }
 @media (min-width: 768px) {
   .dl-horizontal dt {

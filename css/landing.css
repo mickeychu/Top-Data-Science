@@ -45,14 +45,14 @@ h3{font-size: 30px;font-weight: 300}
     background-size: cover;
 }
 .intro > div {
-    padding: 5% 0; 
+    padding: 8% 0; 
     /*background-color: #126da7;
     background-color: rgba(255, 0, 0, 0.7);*/
 }
 
 .phone-img{
-	margin: 40px auto;
-	max-width: 420px;
+	margin: 60px auto;
+	max-width: 600px;
 }
 
 /*phone*/
